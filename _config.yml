@@ -22,7 +22,7 @@ repository               : "https://christianbin.github.io/bintian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BinTian.png"
+  avatar           : "./images/BinTian.png"
   name             : "Bin Tian"
   pronouns         : # example: "she/her"  
   bio              : "Take my way, step by step!"
