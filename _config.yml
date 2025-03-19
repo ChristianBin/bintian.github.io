@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Bin Tian"
 description              : &description "personal description"
 URL                      : https://christianbin.github.io/bintian.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://christianbin.github.io/bintian.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://christianbin.github.io/bintian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "https://christianbin.github.io/bintian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/BinTian.png"
+  avatar           : "BinTian.png"
   name             : "Bin Tian"
   pronouns         : # example: "she/her"  
   bio              : "Take my way, step by step!"
