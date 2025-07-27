@@ -6,6 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the application of optimization in power systems.'
 date: 2025
 venue: 'INFORMS Journal on Computing'
+publication_status: "Minor revision in"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Bin Tian, Kai Pan, Chung-Lun Li. (2025). A Polyhedral Study of Unit Commitment with a Single Type of Binary Variables.'
