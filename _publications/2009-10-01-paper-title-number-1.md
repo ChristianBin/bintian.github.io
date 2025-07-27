@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the application of optimization in power systems.'
-date: 2025
+date: 2025-3-21
 venue: 'INFORMS Journal on Computing'
 publication_status: "Minor revision in"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
