@@ -2,7 +2,7 @@
 title: "A Polyhedral Study of Unit Commitment with a Single Type of Binary Variables"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-DUC
 excerpt: 'This paper is about the application of optimization in power systems.'
 date: 2025-3-21
 venue: 'INFORMS Journal on Computing'
@@ -12,4 +12,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Bin Tian, Kai Pan, Chung-Lun Li. (2025). A Polyhedral Study of Unit Commitment with a Single Type of Binary Variables.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+ABSTRACT: Efficient power production scheduling is a crucial concern for power system operators aiming to minimize operational costs. Previous mixed-integer linear programming formulations for unit commitment (UC) problems have primarily used two or three types of binary variables. The investigation of strong formulations with a single type of binary variables has been limited, as it is believed to be challenging to derive strong valid inequalities using fewer binary variables, and the improvement of compactness is often accompanied by a compromise in tightness. To address these issues, this paper considers a compact formulation for unit commitment using a single type of binary variables and develops strong valid inequality families to enhance the tightness of the formulation. Conditions under which these strong valid inequalities serve as facet-defining inequalities for the UC polytope are provided. For those large-size valid inequality families, the existence of efficient separation algorithms for determining the most violated inequality is also discussed. The efficacy of the proposed compact formulation and strong valid inequalities is demonstrated through computational experiments on network-constrained UC problems. The results indicate that the strong valid inequalities presented in this paper are effective in solving UC problems and can also be applied to UC formulations that contain more than one type of binary variables.
