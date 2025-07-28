@@ -15,7 +15,7 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% assign category_posts = site.publications | where: "category", category[0] | sort: "order" %}
+    {% assign category_posts = site.publications | where: "category", category[0] | sort: "order" | reverse %}
     {% for post in category_posts %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
